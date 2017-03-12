@@ -1,0 +1,1 @@
+/var/www/html/gestionpartes/app/views/Alumns/show.blade.php

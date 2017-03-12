@@ -1,0 +1,1 @@
+/var/www/html/gestionpartes/app/views/grades/show.blade.php
